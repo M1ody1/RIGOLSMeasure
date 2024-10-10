@@ -42,7 +42,7 @@ You can select different parameters to measure at once in both devices as given 
 To run the script u need to type in terminal :
 
 ```
-python RIGOLSMeasurea.py {function}
+python RIGOLSMeasure.py {function}
 ```
 
 in 'function' place you need to type either 'one' 'all' or 'loop' depending on what function you want to use
